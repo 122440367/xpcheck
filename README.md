@@ -7,5 +7,5 @@
 
 [测试地址](https://122440367.github.io/xpcheck)
 [测试地址](https://122440367.github.io/xpcheck/xpcheck)
-
+[测试地址](https://starinitial.github.io/xpcheck)
 喵呜~
